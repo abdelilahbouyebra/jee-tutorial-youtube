@@ -124,8 +124,6 @@
         	<artifactId>hibernate-entitymanager</artifactId>
         	<version>4.1.8.Final</version>
         </dependency>
-  <dependency>
-</dependency>
   </dependencies>
-
+  
 </project>
